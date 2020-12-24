@@ -6,8 +6,7 @@ Simple Tic Tac Toe game written in python
 Python3
 
 ### How to Play
-``` python3 run.py
-```
+```python3 run.py```
 
 ### Screenshot
 
